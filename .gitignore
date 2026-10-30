@@ -1,0 +1,15 @@
+# Système
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Artefacts locaux / navigateur de test
+.qa-chrome-profile/
+debug.log
+*.log
+
+# Résultats de campagne QA (regénérables)
+scripts/qa/_runs/
+
+# Dépendances éventuelles
+node_modules/

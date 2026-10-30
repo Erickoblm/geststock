@@ -1,0 +1,13 @@
+{
+  "name": "geststock",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "GestStock — application de gestion de stock (HTML/CSS/JS, sans dépendance)",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node tests/store.test.mjs",
+    "smoke": "node scripts/smoke.mjs",
+    "shots": "node scripts/screenshots.mjs"
+  }
+}
